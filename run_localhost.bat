@@ -1,0 +1,3 @@
+@echo off
+echo Starting Plant Disease Detection PWA on localhost...
+streamlit run main.py

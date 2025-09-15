@@ -6,6 +6,7 @@ import google.generativeai as genai
 from gtts import gTTS
 import io
 import base64
+# PWA files exist but no UI elements
 
 # Modern Dark Theme CSS
 st.markdown("""
